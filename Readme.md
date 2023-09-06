@@ -1,6 +1,6 @@
 ```
 Proyecto para la empresa UH-METAL
 Andrea Vanegas	
-Jackoson Sosa	
+Jakcson Sosa	
 Andres Garcia
 ```
