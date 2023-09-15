@@ -851,8 +851,9 @@ ul > li {
 	text-align: center;
 	/*padding-top: 6em;*/
 	/*padding-bottom: 4.687em;*/
-	padding-top: 6.25em;
+	padding-top: -10px;
 	padding-bottom: 4.375em;
+
 }
 
 .page-heading .container h2 {
@@ -3081,6 +3082,8 @@ RESPONSIVE STYLESHEET
 	#course-page .course-intro {
 		padding-top: 3em;
 	}
+
+	
 	
 }
 
@@ -3545,4 +3548,12 @@ RESPONSIVE STYLESHEET
 .what-other-say .owl-carousel .owl-nav button.owl-prev:hover,
 .what-other-say .owl-nav button.owl-next:hover {
 	background: #12a84e;
+}
+
+.title_1{
+	color: #bdd7f0;
+}
+
+.title_2{
+	color: #e6e3ef;
 }
