@@ -788,11 +788,13 @@ ul > li {
 /*===============Banner Images===========*/
 .banner {
 	position: relative;
-	margin-bottom: -8px;
+	margin-bottom: -5px;
+
+
 }
 
 .banner img {
-	width: 100%;
+	width: 60%;
 }
 
 .banner .container {
@@ -807,7 +809,7 @@ ul > li {
 }
 
 .banner .container h1 {
-	/*font-size: 4rem;*/
+	font-size: 4rem;
 	font-weight: bold;
 	text-transform: uppercase;
 	margin-top: 5em;
@@ -3551,9 +3553,9 @@ RESPONSIVE STYLESHEET
 }
 
 .title_1{
-	color: #bdd7f0;
+	color: #020609;
 }
 
 .title_2{
-	color: #e6e3ef;
+	color: #0d0c10;
 }
