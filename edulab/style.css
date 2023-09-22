@@ -628,7 +628,7 @@ a:hover, a:active {
 /*======Page Header=============*/
 
 .top-header {
-	/*background: #1c3961;*/
+	background: #060a10;
 }
 
 .top-header a {
@@ -981,7 +981,7 @@ ul > li {
 	position: absolute;
 	left: 5%;
 	top: 44%;
-	/*background: #009450;*/
+	background: rgb(6, 91, 113);
 	padding: 0.9375em 3.5625em 1em 3.5625em;
 	/*font-size: 1.8rem;*/
 	/*font-family: "Raleway", sans-serif;*/
@@ -2750,7 +2750,7 @@ RESPONSIVE STYLESHEET
 	.learn-desining-banner {
 		left: 15%;
 		top: 53% !important;
-		/*background: #009450;*/
+		background: #aaa0cb;
 		padding: 0.9375em 2em 1em 2em;
 	}
 
@@ -3117,6 +3117,7 @@ RESPONSIVE STYLESHEET
 	.top-header-left .top-header-block {
 		margin: 0;
 		margin-bottom: 1em;
+		
 	}
 
 	.top-header-right {
