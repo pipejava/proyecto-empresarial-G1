@@ -1254,7 +1254,7 @@ arrows on first carousel
 	display: grid;
 	grid-template-columns: repeat(4, minmax(200px, 1fr));
 	grid-gap: 10px;
-	grid-row: auto;
+	
 	width: 100%;
 	
 	box-sizing: border-box;
@@ -1271,7 +1271,8 @@ arrows on first carousel
 	width: 341px;
 	box-sizing: content-box;
 	overflow: hidden;
-	border: 10px solid #000000;
+	border: 3px solid #000000;
+	margin-bottom: 20px;
 }
 
 .gallery-section2 .gallery-img-wrap {
