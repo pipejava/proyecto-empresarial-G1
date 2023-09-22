@@ -1165,6 +1165,7 @@ arrows on first carousel
 
 .whyUs-section {
 	background: #2e3192;
+	
 	/*color: #fff;*/
 }
 
@@ -1172,6 +1173,11 @@ arrows on first carousel
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
+	
+}
+
+#whyus-wrap p,h1 {
+	justify-content: end;
 }
 
 .featured-points {
