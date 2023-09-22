@@ -1335,7 +1335,7 @@ arrows on first carousel
 /*========What other say section ============*/
 
 .what-other-say {
-	background: #323e54;
+	background: rgb(6, 91, 113);
 }
 
 .what-other-say .container {
@@ -3501,7 +3501,7 @@ RESPONSIVE STYLESHEET
 
 .what-other-say .container .customer-item {
 	width: 83%;
-	background: rgb(6, 91, 113);
+	background: rgb(10, 8, 9);
 	margin-right: auto;
 	margin-left: auto;
 	padding: 10px;
