@@ -854,7 +854,7 @@ ul > li {
 	/*padding-top: 6em;*/
 	/*padding-bottom: 4.687em;*/
 	padding-top: -10px;
-	padding-bottom: 4.375em;
+	padding-bottom: 10px;
 
 }
 
@@ -1252,7 +1252,7 @@ arrows on first carousel
 .gallery-images-section {
 	display: grid;
 	grid-template-columns: repeat(4, minmax(200px, 1fr));
-	grid-gap: 0;
+	grid-gap: 10px;
 	width: 100%;
 	box-sizing: border-box;
 	box-sizing: content-box;
@@ -2731,6 +2731,7 @@ aside .reserve-course input[type="email"],
 	margin-bottom: 2.142em;
 	margin-top: 1.429em;
 }
+
 
 
 
