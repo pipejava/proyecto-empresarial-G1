@@ -2795,11 +2795,12 @@ RESPONSIVE STYLESHEET
 
 	/*==Footer Line Part=====*/
 	.page-footer .footer-second-section .footer-line {
-		width: 38%;
+		width: 50%;
 	}
 
 	.page-footer .footer-second-section .social-list {
-		width: 23%;
+		width: 10%;
+		align-items: center;
 	}
 	/*=====================================
 		Blog Page
@@ -3247,19 +3248,20 @@ RESPONSIVE STYLESHEET
 
 	/*==Footer Line Part=====*/
 	.page-footer .footer-second-section .footer-line {
-		display: none;
+		
 	}
 
 	.page-footer .footer-second-section .social-list {
-		width: 100%;
+		margin-left: 50%;
+		align-items:center;	
 	}
 
 	.page-footer .footer-second-section .social-list li {
-		margin-right: 11%;
+		margin-left: 50%;
 	}
 
 	.page-footer .footer-second-section .social-list li a svg {
-		font-size: 30px;
+		font-size: 20px;
 	}
 
 	.page-footer .footer-last-section {
