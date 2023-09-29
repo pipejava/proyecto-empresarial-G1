@@ -681,6 +681,7 @@ a:hover, a:active {
 .top-header-right .social-list li {
 	margin-right: 0.625em;
 	margin-left: 0.625em;
+	font-size: 2rem;
 }
 
 /*=================Menu Navigation===============*/
@@ -2332,45 +2333,48 @@ aside .news-letter hr {
 	flex-flow: row wrap;
 	justify-content: space-between;
 	padding-top: 5.625em;
+	margin-bottom: 50px;
 }
 
 .about-upper-section .who-we-are {
-	width: 57.265%;
+	width: 70%;
+	justify-content: end;
 }
 
 .about-upper-section .who-we-are p {
-	/*font-size: 1.6rem;*/
+	font-size: 2.6rem; 	
 	/*color: #59616d;*/
-	margin-bottom: 1.875em;
+	margin-bottom: 0.5em;
 	line-height: 1.8;
+	justify-content: end;
+	
 }
 
 .top-heading {
-	/*font-size: 3rem;*/
+	font-size: 3rem;
 	/*color: #000;*/
 	text-transform: uppercase;
-	margin-bottom: 1.1667em;
+	margin-bottom: 0.5em;
 }
 
 /*=====Our Story=====*/
 
 .about-upper-section .our-story {
-	width: 370px;
+	width: 400px;
+	margin-bottom: 500px;
+	
 }
 
-.about-upper-section .our-story ul {
-	margin: 0;
-	padding: 0;
-}
+
 
 .about-upper-section .our-story ul li {
-	margin-bottom: 2.5em;
+	
 }
 
 .about-upper-section .our-story svg {
 	/*color: #1f4271;*/
 	/*font-size: 2.5rem;*/
-	margin-right: 20px;
+	margin-right: 10px;
 }
 
 /*For none link text use p-tag*/
@@ -2910,16 +2914,19 @@ RESPONSIVE STYLESHEET
 	/*====navigation=====*/
 	.menu-list {
 		flex-direction: column;
+		height: 500px;
 	}	
 
 	.nav-desktop {
 		display: none;
 		width: 250px;
+		
+		
 	}
 
 	.nav-desktop li, .nav-desktop li a {
 		font-size: 1.4rem;
-		font-family: 
+		 
 	}
 
 	.nav-desktop ul ul {
