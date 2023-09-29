@@ -2334,10 +2334,11 @@ aside .news-letter hr {
 	justify-content: space-between;
 	padding-top: 5.625em;
 	margin-bottom: 50px;
+	
 }
 
 .about-upper-section .who-we-are {
-	width: 70%;
+	width: 100%;
 	justify-content: end;
 }
 
@@ -2346,7 +2347,7 @@ aside .news-letter hr {
 	/*color: #59616d;*/
 	margin-bottom: 0.5em;
 	line-height: 1.8;
-	justify-content: end;
+	text-align: center;
 	
 }
 
@@ -2355,6 +2356,7 @@ aside .news-letter hr {
 	/*color: #000;*/
 	text-transform: uppercase;
 	margin-bottom: 0.5em;
+	text-align: center;
 }
 
 /*=====Our Story=====*/
