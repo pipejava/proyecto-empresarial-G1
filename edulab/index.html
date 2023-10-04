@@ -17,6 +17,7 @@
 	<link rel="stylesheet" type="text/css" href="inner-page-style.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/562d327e55.js" crossorigin="anonymous"></script>
 </head>
 <body>
 	<div id="page" class="site" itemscope itemtype="http://schema.org/LocalBusiness">
@@ -54,8 +55,8 @@
 						<nav class="nav-desktop">
 							<ul class="menu-list">
 								<li><a href="index.html">Inicio</a></li>
-								<li><a href="#">Servicios</a></li>
-								<li><a href="#">Galería</a></li>
+								<li><a href="#servicios">Servicios</a></li>
+								<li><a href="#galeria">Galería</a></li>
 								<li><a href="about.html">Sobre Nosotros</a></li>
 								
 								<li><a href="contact.html">Contacto</a></li>
@@ -111,7 +112,7 @@
 		<!-- Banner Close -->
 		<div class="page-heading">
 			<div class="container">
-				<a href="#" target="_blank" rel="noopener noreferrer"><h2>Nuestros servicios</h2></a>
+				<a href="#" target="_blank" rel="noopener noreferrer"><h2 id="servicios">Nuestros servicios</h2></a>
 				
 			</div>
 		</div>
@@ -183,7 +184,7 @@
 		<!-- Closed WhyUs section -->
 		<section class="page-heading">
 			<div class="container">
-				<h2>Galería</h2>
+				<h2 id="galeria">Galería</h2>
 			</div>
 		</section>
 		<section class="gallery-images-section" itemprop="image" itemscope itemtype=" http://schema.org/ImageGallery">
@@ -531,6 +532,7 @@
 				<div class="container">
 					<p>Todos los derechos reservados &copy;  <span>  </span>  
 				</div>
+				<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-up-long"></i></button>
 			</div>
 		</footer>
 
@@ -583,5 +585,6 @@
 	<!-- <script type="text/javascript" src="js/jquery.mmenu.all.js"></script> -->
 	<!-- <script type="text/javascript" src="js/jquery.meanmenu.min.js"></script> -->
 	<script type="text/javascript" src="js/custom.js"></script>
+	<script type="text/javascript" src="js/top.js"></script>
 </body>
 </html>
